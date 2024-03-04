@@ -100,6 +100,7 @@ st.pyplot(fig)
 st.subheader("Weather")
 
 colors = ["#90CAF9", "#D3D3D3", "#D3D3D3", "#D3D3D3", "#D3D3D3"]
+colors2 = ["#D3D3D3", "#90CAF9", "#D3D3D3", "#D3D3D3", "#D3D3D3"]
 
 
 fig, ax = plt.subplots(figsize=(20, 10))
