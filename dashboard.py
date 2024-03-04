@@ -45,7 +45,7 @@ def create_corr_df(df):
     
     return corr_df
 
-all_df = pd.read_csv("dashboard/main_data.csv")
+all_df = pd.read_csv("main_data.csv")
 
 all_df.sort_values(by="dteday", inplace=True)
 all_df.reset_index(inplace=True)
