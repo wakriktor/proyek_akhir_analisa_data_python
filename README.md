@@ -1,1 +1,0 @@
-# proyek_akhir_analisa_data_python
